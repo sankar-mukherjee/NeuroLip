@@ -1,2 +1,2 @@
 # NeuroLip
-Investigate the effect of speakers speech and lip movements on listeners perception
+Disentangling auditory (bottom-up) and motor (top-down) contributions to speech processing during speech listening.
